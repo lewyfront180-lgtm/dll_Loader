@@ -1,11 +1,5 @@
-to create a dll application for this program, you need to have Visual Studio and work in C# and .NET 4.8, set it to x64, example (file explorer):
-using System;
-using System.IO;
-using System.Linq;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Media;
-
+to create a dll application for this program, you need to have Visual Studio and work in C# and .NET 4.8, set it to x64, example (file explorer)
+------------------------------------------------------------------------------------------------------------------------------------------------
 public class SquareApp
 {
     private static Window win;
